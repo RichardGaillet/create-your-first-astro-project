@@ -7,7 +7,7 @@ image:
   url: "https://docs.astro.build/assets/rays.webp"
   alt: "Le logo Astro sur un fond sombre avec un arc de cercle dégradé violet."
 pubDate: 2022-07-15
-tags: ["astro", "apprentissage en public", "obstacles", "communauté"]
+tags: ["astro", "learning in public", "setbacks", "community"]
 ---
 
 Ce n'était pas toujours tout rose, mais j'adore construire avec Astro. Et, la [communauté Discord](https://astro.build/chat) est vraiment sympathique et serviable !

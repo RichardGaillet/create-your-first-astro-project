@@ -7,7 +7,7 @@ author: "Apprenti Astro"
 image:
   url: "https://docs.astro.build/assets/rose.webp"
   alt: "Le logo Astro sur un fond sombre avec une lueur rose."
-tags: ["astro", "blogging", "apprentissage en public"]
+tags: ["astro", "blogging", "learning in public"]
 ---
 
 # Mon premier article de blog
