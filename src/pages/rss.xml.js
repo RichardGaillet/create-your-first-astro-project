@@ -2,7 +2,7 @@ import rss, { pagesGlobToRssItems } from "@astrojs/rss"
 
 export async function GET(context) {
   return rss({
-    site: "https://richardgaillet.github.io",
+    site: "https://richardgaillet.github.io/create-your-first-astro-project/",
     title: "Astro Learner | Blog",
     description: "Mon voyage d'apprentissage d'Astro",
     site: context.site,
